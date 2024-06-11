@@ -1,1 +1,3 @@
-# V tej mapi se nahaja Arduino koda
+# KODA
+## Navodila
+Kodo prekopiramo in prilepimo v program Arduini IDE
