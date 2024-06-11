@@ -20,5 +20,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 
 
-https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/10c9e39f-213e-488f-a394-4393ca1dc4b5
+
+
+https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/639c3577-71b4-42cb-927b-54842eeeed50
 
