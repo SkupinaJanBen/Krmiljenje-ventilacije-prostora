@@ -6,7 +6,10 @@
 Kodo kopiramo in prilepimo v program Arduino IDE
 
 ## Slike 
-![image (2)](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/0f52700c-01bf-4c76-a568-a18ce2249eeb)
+![IMG_20240611_091513 22](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/9ed79f27-6378-443d-a42d-899e9415d17e)
+
+## Vezje
+![Vezje PNA J](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/40401b1f-83ce-4830-8c11-b30df950c92b)
 
 
 ## Video
