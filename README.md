@@ -23,14 +23,12 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 ## Priredbeni seznam
 ## Vhodi
 |     Oznaka v načrtu      |   Operenda     |   Vrste kontakta   |   Pomen    |   
-|----------------------|:--------------------|:----------------------|:-------------------|
-|  LED rdeča        |    X 1         |    X 1       |    X 1       |        
-|  LED zelena       |    X 1         |    X 1       |    X 1       |            
-|  Potenciometer    |    X 1         |    X 1       |    X 1       |            
-|  Protobord        |    X 1         |    X 1       |    X 1       |       
-|  Termistor        |    X 1         |    X 1       |    X 1       |   
-|  Upor  1 kΩ       |    X 1         |    X 1       |    X 1       |   
-|  Upor  220 Ω      |    X 1         |    X 1       |    X 1       |   
+|-------------------|:-----------------|:-----------------|:-------------|
+|  SW1        |    I4         |    Menjalni       |    Vklop/Izklop ventilatorja       |        
+|  SW2        |    I3         |    Menjalni       |    Ročno/Avtomatsko vpravljanje hitrosti ventilatorja      |            
+|  RP1        |    A1         |           |   Meri vrednost na analognem pinu A1        |            
+|  NTC1       |    A0         |           |   Meri vrednost na analognem pinu A0        |       
+
 
 
 ## Slika vezalne sheme
