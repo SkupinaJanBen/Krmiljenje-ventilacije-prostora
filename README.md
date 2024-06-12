@@ -5,17 +5,17 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 ## Kosovnica
 |     Element     |   Količina          |
 |----------|:----------|
-|  LED rdeča    |      X 1       |         
-|  LED zelena        |     X 1      |         
-|  Potenciometer        |    X 1      |         
+|  LED rdeča        |    X 1         |         
+|  LED zelena       |    X 1         |         
+|  Potenciometer    |    X 1         |         
 |  Protobord        |    X 1         |    
 |  Termistor        |    X 1         |
 |  Upor  1 kΩ       |    X 1         |
-|  Upor  220 Ω       |    X 1         |
-|  Upor  18 kΩ         |    X 1         |
-|  Upor  10 kΩ         |    X 1         |
-|  Arduino UNO        |    X 1         |
-|  Tranzistor NPN        |    X 1         |
+|  Upor  220 Ω      |    X 1         |
+|  Upor  18 kΩ      |    X 1         |
+|  Upor  10 kΩ      |    X 1         |
+|  Arduino UNO      |    X 1         |
+|  NPN Tranzistor   |    X 1         |
 |  Protobord        |    X 1         |
 |  Protobord        |    X 1         |
 
