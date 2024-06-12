@@ -4,7 +4,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 ## Kosovnica
 |     Element       |   Količina     |
-|----------|:----------|
+|-------------------|:---------------|
 |  LED rdeča        |    X 1         |         
 |  LED zelena       |    X 1         |         
 |  Potenciometer    |    X 1         |         
@@ -23,11 +23,11 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 ## Priredbeni seznam
 ## Vhodi
 |     Oznaka v načrtu      |   Operenda     |   Vrste kontakta   |   Pomen    |   
-|-------------------|:-----------------|:-----------------|:-------------|
-|  SW1        |    I4         |    Menjalni       |    Vklop/Izklop ventilatorja       |        
-|  SW2        |    I3         |    Menjalni       |    Ročno/Avtomatsko vpravljanje hitrosti ventilatorja      |            
-|  RP1        |    A1         |           |   Meri vrednost na analognem pinu A1        |            
-|  NTC1       |    A0         |           |   Meri vrednost na analognem pinu A0        |       
+|-------------|:--------------|:--------------------|:------------------|
+|  SW1        |    I4         |    Menjalni         |    Vklop/Izklop ventilatorja       |        
+|  SW2        |    I3         |    Menjalni         |    Ročno/Avtomatsko vpravljanje hitrosti ventilatorja      |            
+|  RP1        |    A1         |    Konstantni       |   Meri vrednost na analognem pinu A1        |            
+|  NTC1       |    A0         |    Konstantni       |   Meri vrednost na analognem pinu A0        |       
 
 
 
