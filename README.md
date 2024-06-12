@@ -21,6 +21,8 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 
 ## Slika vezalne sheme
+![Vezje PNA J](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/ad7c515a-6d1a-403d-acbe-4c6d96e60a2e)
+
 
 ## Slika vezave
 ![IMG_20240611_091513 22](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/16601ab5-b801-4eaa-a215-46586464c80d)
