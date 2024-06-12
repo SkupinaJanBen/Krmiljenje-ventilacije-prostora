@@ -20,6 +20,19 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  side switch      |    X 2         |
 
 
+## Priredbeni seznam
+## Vhodi
+|     Oznaka v načrtu      |   Operenda     |   Vrste kontakta   |   Pomen    |   
+|----------------------|:--------------------|:----------------------|:-------------------|
+|  LED rdeča        |    X 1         |    X 1       |    X 1       |        
+|  LED zelena       |    X 1         |    X 1       |    X 1       |            
+|  Potenciometer    |    X 1         |    X 1       |    X 1       |            
+|  Protobord        |    X 1         |    X 1       |    X 1       |       
+|  Termistor        |    X 1         |    X 1       |    X 1       |   
+|  Upor  1 kΩ       |    X 1         |    X 1       |    X 1       |   
+|  Upor  220 Ω      |    X 1         |    X 1       |    X 1       |   
+
+
 ## Slika vezalne sheme
 ![Vezje PNA J](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/ad7c515a-6d1a-403d-acbe-4c6d96e60a2e)
 
