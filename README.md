@@ -30,7 +30,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  NTC1       |    A0         |    Konstantni       |   Meri vrednost na analognem pinu A0        |   
 
 
-## Izhodi
+### Izhodi
 |     Oznaka v načrtu      |   Operenda     |   Aktiven pri   |   Pomen    |   
 |-------------|:--------------|:--------------------|:------------------|
 |  LED1       |    O2         |    1         |    Indikira če ventilator deluje v avtomatskem načinu      |        
