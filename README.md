@@ -18,6 +18,10 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 ## Slika vezave
 ![IMG_20240611_091513 22](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/16601ab5-b801-4eaa-a215-46586464c80d)
 
+## Koda za Arduino
+
+Koda se nahaja v mapi __vsebina__ ali pa pritisnite na vezavo 
+
 ## Video 
 https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/639c3577-71b4-42cb-927b-54842eeeed50
 
