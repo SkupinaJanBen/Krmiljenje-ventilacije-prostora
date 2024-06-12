@@ -21,7 +21,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 
 ## Priredbeni seznam
-## Vhodi
+### Vhodi
 |     Oznaka v načrtu      |   Operenda     |   Vrste kontakta   |   Pomen    |   
 |-------------|:--------------|:--------------------|:------------------|
 |  SW1        |    I4         |    Menjalni         |   Vklop/Izklop ventilatorja       |        
