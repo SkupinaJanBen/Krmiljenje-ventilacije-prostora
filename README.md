@@ -27,7 +27,15 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  SW1        |    I4         |    Menjalni         |    Vklop/Izklop ventilatorja       |        
 |  SW2        |    I3         |    Menjalni         |    Ročno/Avtomatsko vpravljanje hitrosti ventilatorja      |            
 |  RP1        |    A1         |    Konstantni       |   Meri vrednost na analognem pinu A1        |            
-|  NTC1       |    A0         |    Konstantni       |   Meri vrednost na analognem pinu A0        |       
+|  NTC1       |    A0         |    Konstantni       |   Meri vrednost na analognem pinu A0        |   
+
+
+## Izhodi
+|     Oznaka v načrtu      |   Operenda     |   Aktiven pri   |   Pomen    |   
+|-------------|:--------------|:--------------------|:------------------|
+|  LED1        |    O2         |    1         |    Indikira če ventilator deluje v avtomatskem načinu      |        
+|  LED2        |    O6         |    1         |    Indikira če ventilator deluje v avtomatskem načinu       |            
+|  MOT1        |    O5         |    1         |   Meri vrednost na analognem pinu A1        |                
 
 
 
