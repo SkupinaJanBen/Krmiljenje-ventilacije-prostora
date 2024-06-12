@@ -10,8 +10,8 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  Potenciometer        |    X 1      |         
 |  Protobord        |    X 1         |    
 |  Termistor        |    X 1         |
-|  Upor         |    X 1         |
-|  Upor         |    X 1         |
+|  Upor 1 kΩ       |    X 1         |
+|  Upor  220 Ω       |    X 1         |
 |  Upor         |    X 1         |
 |  Protobord        |    X 1         |
 
