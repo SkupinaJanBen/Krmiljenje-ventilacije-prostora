@@ -3,7 +3,7 @@
 Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi in obratno. Način delovanja ventilacije pa lahko izbiramo s stikalom 2, in sicer: AVTOMATSKO delovanje glede na višino temperature (višja temperatura - hitrejše vrtenje ventilatorja - uporabite termistor) ter ROČNO upravljanje z zveznim spreminjanjem hitrosti ventilatorja (s potenciometrom). Za preklop med avtomatskim in ročnim delovanjem uporabite stikalo 2; ob izklopu stikala 2 naj deluje ventilacija ročno, sicer pa avtomatsko. Poleg tega dodajte še LED diodi: Rdeča za signalizacijo ROČNO in zelena za AVTOMATSKO. Ob izklopu ventilacije se izklopita obe LED.
 
 ## Kosovnica
-|     Element     |   Količina          |
+|     Element       |   Količina     |
 |----------|:----------|
 |  LED rdeča        |    X 1         |         
 |  LED zelena       |    X 1         |         
@@ -16,8 +16,8 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  Upor  10 kΩ      |    X 1         |
 |  Arduino UNO      |    X 1         |
 |  NPN Tranzistor   |    X 1         |
-|  Protobord        |    X 1         |
-|  Protobord        |    X 1         |
+|  12V DC Motor     |    X 1         |
+|  side switch      |    X 2         |
 
 
 ## Slika vezalne sheme
