@@ -1,6 +1,7 @@
 # Mapa v kateri se nahajajo elementi
 ## Koda
-Koda se nahaja JanUBenMpnakoda/JanUBenMpnakoda.ino. 
+Koda se nahaja 
+ [tukaj] (). 
 Kodo kopiramo in prilepimo v program Arduino IDE
 
 
