@@ -10,13 +10,17 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  Potenciometer        |    X 1      |         
 |  Protobord        |    X 1         |    
 |  Termistor        |    X 1         |
-|  Upor 1 kΩ       |    X 1         |
+|  Upor  1 kΩ       |    X 1         |
 |  Upor  220 Ω       |    X 1         |
-|  Upor         |    X 1         |
+|  Upor  18 kΩ         |    X 1         |
+|  Upor  10 kΩ         |    X 1         |
 |  Arduino UNO        |    X 1         |
 |  Protobord        |    X 1         |
 |  Protobord        |    X 1         |
 |  Protobord        |    X 1         |
+
+
+## Slika vezalne sheme
 
 ## Slika vezave
 ![IMG_20240611_091513 22](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/16601ab5-b801-4eaa-a215-46586464c80d)
