@@ -15,7 +15,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 |  Upor  18 kΩ         |    X 1         |
 |  Upor  10 kΩ         |    X 1         |
 |  Arduino UNO        |    X 1         |
-|  Protobord        |    X 1         |
+|  Tranzistor NPN        |    X 1         |
 |  Protobord        |    X 1         |
 |  Protobord        |    X 1         |
 
