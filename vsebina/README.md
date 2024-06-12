@@ -8,7 +8,7 @@ Kodo kopiramo in prilepimo v program Arduino IDE
 ## Slike 
 ![IMG_20240611_091513 22](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/9ed79f27-6378-443d-a42d-899e9415d17e)
 
-## Vezje
+## Vezava
 ![Vezje PNA J](https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/40401b1f-83ce-4830-8c11-b30df950c92b)
 
 
