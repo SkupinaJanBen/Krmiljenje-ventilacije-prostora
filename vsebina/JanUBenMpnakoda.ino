@@ -1,5 +1,6 @@
-#define LEDAvto 6
-#define LEDEmanuel 2
+#define LED2 6
+#define LED1 2
+#define 
 
 void setup() 
 {
