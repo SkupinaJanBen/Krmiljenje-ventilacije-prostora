@@ -7,8 +7,9 @@ void setup()
   Serial.begin(9600);
   pinMode(4, INPUT);
   pinMode(3, INPUT);
-  pinMode(LEDAvto, OUTPUT);
-  pinMode(LEDEmanuel, OUTPUT); 
+  pinMode(LED2, OUTPUT);
+  pinMode(LED1, OUTPUT); 
+  pinMode(5, OUTPUT);
 }
 
 void loop() 
