@@ -54,7 +54,7 @@ Koda se nahaja v mapi __vsebina__ ali pa pritisnite na vezavo [tukaj](https://gi
 https://github.com/SkupinaJanBen/Krmiljenje-ventilacije-prostora/assets/171671326/639c3577-71b4-42cb-927b-54842eeeed50
 
 ## Komentar
-izdelek deluje zelo dobro z manjšimi napakami. Pri delu sva naletela na napake kot so premajhen upor na diodi. Izdelek bi lahko izboljšala še tako da bi dodala ohišje, lahko bi tudi izboljšala delovanje na avto nastavitvi.
+izdelek deluje zelo dobro z manjšimi napakami in to lahko tudi vidimo v video pisnetku. Pri delu sva naletela na napake kot so premajhen upor na diodi. Izdelek bi lahko izboljšala še tako da bi dodala ohišje, lahko bi tudi izboljšala delovanje na avto nastavitvi.
 lahko bi dodala bluetooth module in s tem upravljala hitrost ventilatorja.
 
 
