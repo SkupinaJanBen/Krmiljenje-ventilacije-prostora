@@ -19,9 +19,9 @@ void loop()
   int RP1 = analogRead(A1);
   RP1 = map(EmanuelValue, 0, 1023, 249, 1023);
   int EmanuelValue = RP1 / 4;
-  int AvtoValue = analogRead(A0);
-  AvtoValue = map(AvtoValue, 0, 1023, 144, 1023);
-  int AvtoValue = AvtoValue / 4;
+  int NTC1 = analogRead(A0);
+  NTC1 = map(AvtoValue, 0, 1023, 144, 1023);
+  int AvtoValue = NTC1 / 4;
   Serial.println(AvtoValue);
   
   
