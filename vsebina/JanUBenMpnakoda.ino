@@ -1,6 +1,7 @@
 #define LED2 6
 #define LED1 2
-#define 
+#define SW1 
+#define SW2 
 
 void setup() 
 {
