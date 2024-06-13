@@ -2,7 +2,7 @@
 #define LED1 2
 #define SW1 4
 #define SW2 3
-#define Q1 3
+#define Q1 5
 
 void setup() 
 {
