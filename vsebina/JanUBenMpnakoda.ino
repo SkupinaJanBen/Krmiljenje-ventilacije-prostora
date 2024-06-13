@@ -25,23 +25,23 @@ void loop()
   
   if (digitalRead(4)== HIGH && digitalRead(3)== HIGH) {
     analogWrite(5, AvtoValue1);
-    digitalWrite(LEDAvto, HIGH);
-    digitalWrite(LEDEmanuel, LOW);
+    digitalWrite(LED2, HIGH);
+    digitalWrite(LED1, LOW);
   }
   else if (digitalRead(4) == HIGH && digitalRead(3)== LOW) {
     analogWrite(5, EmanuelValue1);
-    digitalWrite(LEDAvto, LOW);
-    digitalWrite(LEDEmanuel, HIGH);
+    digitalWrite(LED2, LOW);
+    digitalWrite(LED1, HIGH);
   }
   else if (digitalRead(4) == LOW && digitalRead(3)== HIGH) {
     digitalWrite(5, LOW);
-    digitalWrite(LEDAvto, HIGH);
-    digitalWrite(LEDEmanuel, LOW);
+    digitalWrite(LED2, HIGH);
+    digitalWrite(LED1, LOW);
   }
   else if (digitalRead(4) == LOW && digitalRead(3)== LOW) {
     digitalWrite(5, LOW);
-    digitalWrite(LEDAvto, LOW);
-    digitalWrite(LEDEmanuel, HIGH);
+    digitalWrite(LED2, LOW);
+    digitalWrite(LED1, HIGH);
   }
   delay(100);
 }
